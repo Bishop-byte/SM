@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Run Live Bot",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/oanda_live_bot.py",
+      "console": "integratedTerminal"
+    }
+  ]
+}
